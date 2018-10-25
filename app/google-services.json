@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "767868509010",
+    "firebase_url": "https://ecosistemas2018-2.firebaseio.com",
+    "project_id": "ecosistemas2018-2",
+    "storage_bucket": "ecosistemas2018-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767868509010:android:ee21028ffd1d3182",
+        "android_client_info": {
+          "package_name": "com.example.a1144102654.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767868509010-e1hg74li8rdoicukn00rr5sgdrojvrc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1144102654.cliente",
+            "certificate_hash": "ba0e1ae50c6be7b06b8b74d075309d0264a317ca"
+          }
+        },
+        {
+          "client_id": "767868509010-jn253e2s9a6l3gjhh6894d72u7cllm5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU762UeWsOGQlg799Uj-OQ2k8WLUlSe8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767868509010-jn253e2s9a6l3gjhh6894d72u7cllm5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767868509010:android:ee7d7c57a8f6837d",
+        "android_client_info": {
+          "package_name": "com.example.jerryminotta.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767868509010-ai2uufsr326bti22og1ks02tfvvrjdhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jerryminotta.registro",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "767868509010-jn253e2s9a6l3gjhh6894d72u7cllm5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU762UeWsOGQlg799Uj-OQ2k8WLUlSe8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767868509010-jn253e2s9a6l3gjhh6894d72u7cllm5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
